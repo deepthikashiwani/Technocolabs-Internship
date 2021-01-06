@@ -9,12 +9,12 @@ In 1847, the Hungarian physician Ignaz Semmelweis makes a breakthough discovery:
 In this python project we will reanalyze the medical data Semmelweis collected.
 
 **Project Tasks**<br>
-  1.Meet Dr. Ignaz Semmelweis<br>
-  2.The alarming number of deaths<br>
-  3.Death at the clinics<br>
-  4.The handwashing begins<br>
-  5.The effect of handwashing<br>
-  6.The effect of handwashing highlighted<br>
-  7.More handwashing, fewer deaths?<br>
-  8.A Bootstrap analysis of Semmelweis hand washing data<br>
-  9.The fate of Dr. Semmelweis<br>
+  **1**.Meet Dr. Ignaz Semmelweis<br>
+  **2**.The alarming number of deaths<br>
+  **3**.Death at the clinics<br>
+  **4**.The handwashing begins<br>
+  **5**.The effect of handwashing<br>
+  **6**.The effect of handwashing highlighted<br>
+  **7**.More handwashing, fewer deaths?<br>
+  **8**.A Bootstrap analysis of Semmelweis hand washing data<br>
+  **9**.The fate of Dr. Semmelweis<br>
