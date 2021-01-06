@@ -1,7 +1,8 @@
 # Technocolabs-Internship
 This repository contains all the project files which I worked on during my Data Science Developer Internship at Technocolabs
 
-# Mini Project 
+# Mini Project 1 
+<b>Data Analysis on Dr. Semmelweis and the Discovery of Handwashing Dataset</b><br>
 In 1847, the Hungarian physician Ignaz Semmelweis makes a breakthough discovery: He discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives.
 In this python project we will reanalyze the medical data Semmelweis collected. This project assumes that you are familiar with python and pandas DataFrames.
 
