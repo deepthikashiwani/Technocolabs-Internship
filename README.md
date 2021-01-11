@@ -32,4 +32,4 @@ Our client is a credit card company. They have brought us a dataset that include
  **4**.Fitting a Logistic Regression Model and Directly Using the Coefficients<br>
  **5**.Cross-Validation and Feature Engineering with the Case Study Data<br>
  **6**.Cross-Validation Grid Search with Random Forest<br>
- **7**Deriving Financial Insights<br>
+ **7**.Deriving Financial Insights<br>
